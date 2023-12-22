@@ -1,0 +1,50 @@
+[
+    {
+        "class_name": "大佬们",
+        "class_desc": "那些年的大佬们",
+        "link_list": [
+            {
+                "name": "黑果小兵的部落阁",
+                "link": "https://blog.daliansky.net/",
+                "avatar": "https://blog.daliansky.net/images/avatar.png",
+                "descr": "Hackintosh安装镜像、教程及经验分享"
+            },
+            {
+                "name": "黑石博客",
+                "link": "https://www.heson10.com/",
+                "avatar": "https://fastly.jsdelivr.net/gh/heson525/pic@master/pic/avatar03.png",
+                "descr": "人生在勤，不索何获。"
+            }
+        ]
+    },
+    {
+        "class_name": "友情链接",
+        "class_desc": "那些年，那些人，那些事",
+        "link_list": [
+            {
+                "name": "乘风破浪",
+                "link": "https://www.xuechengliu.top",
+                "avatar": "https://www.xuechengliu.top/img/image1.png",
+                "descr": "书山有路勤为径,学海无涯苦做舟"
+            },
+            {
+                "name": "隋辨的博客",
+                "link": "http://benearyou.com/",
+                "avatar": "https://fastly.jsdelivr.net/gh/HowieHye/CDN@master/friend/benearyou",
+                "descr": "服务器是我的牧者，我必不至缺乏。使我行在网上，如同行在路上。"
+            },
+            {
+                "name": "恩佩",
+                "link": "https://zhouenpei0523.top/",
+                "avatar": "https://imgs.zhouenpei0523.top/i/2022/07/31/dvpwnk.webp",
+                "descr": "严于律己，宽以待人"
+            },
+            {
+                "name": "Philo`",
+                "link": "https://blog.csdn.net/qq_44864833",
+                "avatar": "https://profile.csdnimg.cn/F/1/4/1_qq_44864833",
+                "descr": "一个人至少拥有一个梦想，有一个理由去坚强。心若没有栖息的地方，到哪里都是在流浪。"
+            }
+        ]
+    }
+]
